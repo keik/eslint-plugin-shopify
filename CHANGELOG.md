@@ -2,6 +2,9 @@
 
 ## Unreleased
 
+### New Rules
+
+  - `shopify/no-namespace-imports` Prevent namespace import declarations. ([262](https://github.com/Shopify/eslint-plugin-shopify/pull/262))
 - `jest/valid-title`
 - `jest/prefer-hooks-on-top`
 - `jest/require-top-level-describe`
